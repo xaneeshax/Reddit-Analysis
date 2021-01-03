@@ -26,8 +26,6 @@ import plotly.offline as plyo
 plyo.init_notebook_mode(connected=True)
 
 
-# ### Scraping Reddit 
-
 # In[2]:
 # Function to access Reddit PRAW
 
